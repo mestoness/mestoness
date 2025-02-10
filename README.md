@@ -2,7 +2,7 @@
 
 
 My name is Ahmet Baki Memiş, I live in **Turkey/Netherlands**. <br>
-I am interested in Full Stack Development. <br/>
+I work in Full Stack Development and also as a FX/Crypto/NQ Trader <br/>
 
 ### Skills
 ![]()
