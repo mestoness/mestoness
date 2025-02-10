@@ -1,7 +1,7 @@
 # Hi , I'm Ahmet Baki Memiş
 
 
-My name is Ahmet Baki Memiş, I live in **Turkey/Istanbul**. <br>
+My name is Ahmet Baki Memiş, I live in **Turkey/Netherlands**. <br>
 I am interested in Full Stack Development. <br/>
 
 ### Skills
