@@ -1,8 +1,10 @@
-# Hi , I'm Ahmet Baki Memiş
+# Hi, I'm Ahmet Baki Memiş
 
+I live in **Turkey/Netherlands**.  
+I work in **Full Stack Development** and also as an **FX/Crypto/NQ Trader**.  
+Stay healthy and rich!
 
-My name is Ahmet Baki Memiş, I live in **Turkey/Netherlands**. <br>
-I work in Full Stack Development and also as a FX/Crypto/NQ Trader <br/>
+*I stopped publishing to public repositories for 3 years, maybe one day I'll start again.*
 
 ### Skills
 ![]()
