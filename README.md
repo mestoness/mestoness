@@ -4,7 +4,7 @@ I live in **Turkey/Netherlands**.
 I work in **Full Stack Development** and also as an **FX/Crypto/NQ Trader**.  
 Stay healthy and rich!
 
-*I stopped publishing to public repositories for 3 years, maybe one day I'll start again.*
+*I stopped publishing to public repositories for +4 years, maybe one day I'll start again.*
 
 ### Skills
 ![]()
