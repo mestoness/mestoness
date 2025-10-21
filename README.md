@@ -1,7 +1,6 @@
 # Hi, I'm Ahmet Baki Memiş
 
-I live in **Turkey/Netherlands**.  
-I work professionally in Full Stack software development, data analysis, and also develop algorithmic and quantitative trading strategies for FX, crypto, and NQ markets.
+I live in **Turkey/Netherlands** and work professionally in Full Stack software development, data analysis, and the development of algorithmic and quantitative trading strategies for FX, crypto, and NQ markets. Since starting my software development journey in 2019 with a focus on web technologies, I’ve gained experience by marketing my products to relevant companies and individuals. Over the past two years, I’ve specialized in developing algorithms for financial markets and building advanced tools to test and optimize these strategies.
 
 Stay healthy and rich!
 
